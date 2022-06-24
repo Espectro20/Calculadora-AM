@@ -1,0 +1,16 @@
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\bin\Debug\netcoreapp3.1\Calculadora AM.exe
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\bin\Debug\netcoreapp3.1\Calculadora AM.deps.json
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\bin\Debug\netcoreapp3.1\Calculadora AM.runtimeconfig.json
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\bin\Debug\netcoreapp3.1\Calculadora AM.runtimeconfig.dev.json
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\bin\Debug\netcoreapp3.1\Calculadora AM.dll
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\bin\Debug\netcoreapp3.1\Calculadora AM.pdb
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\obj\Debug\netcoreapp3.1\Calculadora AM.csproj.AssemblyReference.cache
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\obj\Debug\netcoreapp3.1\Calculadora_AM.Form1.resources
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\obj\Debug\netcoreapp3.1\Calculadora AM.csproj.GenerateResource.cache
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\obj\Debug\netcoreapp3.1\Calculadora AM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\obj\Debug\netcoreapp3.1\Calculadora AM.AssemblyInfoInputs.cache
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\obj\Debug\netcoreapp3.1\Calculadora AM.AssemblyInfo.cs
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\obj\Debug\netcoreapp3.1\Calculadora AM.csproj.CoreCompileInputs.cache
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\obj\Debug\netcoreapp3.1\Calculadora AM.dll
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\obj\Debug\netcoreapp3.1\Calculadora AM.pdb
+C:\Users\anmartinez\source\repos\Calculadora AM\Calculadora AM\obj\Debug\netcoreapp3.1\Calculadora AM.genruntimeconfig.cache
